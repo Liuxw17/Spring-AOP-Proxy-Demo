@@ -1,7 +1,7 @@
 ## Spring AOP之『代理模式』
 
 ### 静态代理
-![](https://images2015.cnblogs.com/blog/756310/201609/756310-20160924153802543-1643119235.jpg)
+![](https://images2015.cnblogs.com/blog/756310/201609/756310-20160924153802543-1643119235.jpg)  
 可以看到还是很简单的，代理类实现了被代理类的接口，同时与被代理类是组合关系。  
 ### 动态代理
 #### JDK自带方法  
@@ -49,5 +49,5 @@ CGlib是一个字节码增强库，为AOP等提供了底层支持。
 
 ---
 参考：  
-http://www.cnblogs.com/puyangsky/p/6218925.html
+http://www.cnblogs.com/puyangsky/p/6218925.html  
 https://www.cnblogs.com/liuhaoyang/p/aspectcore-getting-started.html
